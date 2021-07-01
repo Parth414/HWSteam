@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Plugins/AdvancedSessions/AdvancedSessions/Intermediate/*
+Plugins/AdvancedSessions/AdvancedSessions/Binaries/*
+
+Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/*
+Plugins/AdvancedSessions/AdvancedSteamSessions/Binaries/*

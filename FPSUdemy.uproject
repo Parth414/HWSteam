@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{858E9B51-40A8-3F53-F412-E9AB58B9B5D6}",
+	"EngineAssociation": "{FA04BE61-448D-51D1-69EC-00BDCECBC1CB}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -25,12 +25,12 @@
 		},
 		{
 			"Name": "awsSDK",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/eee4bef24c9d429887ddcc107a5a9b4d"
 		},
 		{
 			"Name": "BlueprintJson",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f837e4835fbc434a853fe1ead2410b84"
 		},
 		{

@@ -44,10 +44,6 @@
 		{
 			"Name": "OnlineSubsystemGoogle",
 			"Enabled": true
-		},
-		{
-			"Name": "OnlineSubsystemTencent",
-			"Enabled": true
 		}
 	]
 }

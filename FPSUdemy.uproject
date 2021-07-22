@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{26AB432F-4E94-3710-83F2-2D8E3804F613}",
+	"EngineAssociation": "4.26",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -43,6 +43,10 @@
 		},
 		{
 			"Name": "OnlineSubsystemGoogle",
+			"Enabled": true
+		},
+		{
+			"Name": "RLPlugin",
 			"Enabled": true
 		}
 	]
